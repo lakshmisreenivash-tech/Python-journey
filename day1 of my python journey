@@ -1,0 +1,4 @@
+print("Hello world!")
+name="Lakshmi"
+print("I am" + " " + name )
+print("This is my first program on Github")
