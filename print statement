@@ -1,0 +1,10 @@
+a=100
+print(a) #accesing a variable.
+a=200 #changing a value of a variable.
+print(a) #now it prints updated value of a variable.
+print("a") #it prints "a" because of quotes.
+a = 100
+b = 200
+c = a+b
+print(a+b) #it prints mathematical addition of a and b.
+print("a+b") # it prints "a+b" as it is because of quotes.
