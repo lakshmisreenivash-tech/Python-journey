@@ -1,0 +1,7 @@
+#it is used to take an input from the user
+a = input() #By default the type() of input is string
+#converting an input into integer type
+b = int(input())
+#converting an input into float type
+c = float(input())
+
