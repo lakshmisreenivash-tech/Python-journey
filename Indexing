@@ -1,0 +1,5 @@
+#indexing is used to access a idividual element of sting,list,tuple etc.
+#idexing start from zero 
+name="Alice"
+print(name[0]) #prints "A"
+
