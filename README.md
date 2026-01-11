@@ -1,5 +1,3 @@
 # Python-journey
-Documenting my python learning journey through hands-on pratice.
-Today is day2 in Github explored about repositors,pull requests,commit etc.
-Learned about Arithmetic operators and explored how to use gen ai productively that "AI is a tool to improve our learning and understanding,not to replace for thinking and efforts".
-This is day3 Today I learned about data types and variables.
+I am student who learning a first programming language #python, first by seeing pages of codes I thought it was something like unrelated words combines together but as the days moves when I stared exploring #python #html # css what is frontend and backend how they works together one thing I realised is it is beyond my thinking. how websites are created, what is AI, how AI works, how AI answer almost every question we ask, how it remembers all those data how it stores after knowing all this things I started getting intrest, curiousity, igerness to build something new.
+
