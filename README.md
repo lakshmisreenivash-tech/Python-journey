@@ -1,3 +1,3 @@
 # Python-journey
 I am student who learning a first programming language #python, first by seeing pages of codes I thought it was something like unrelated words combines together but as the days moves when I stared exploring #python #html # css what is frontend and backend how they works together one thing I realised is it is beyond my thinking. how websites are created, what is AI, how AI works, how AI answer almost every question we ask, how it remembers all those data how it stores after knowing all this things I started getting intrest, curiousity, igerness to build something new.
-
+After exploring all this day by day curiosity keeps increase, one day I found #open source really I did't have any clue about open source I started searching about it they I get to know a big open source contribution platform #GITHUB and #GSSOC.know I am looking forward to contribute, experience how real world projects are working.
