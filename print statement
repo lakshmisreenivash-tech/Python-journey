@@ -8,3 +8,4 @@ b = 200
 c = a+b
 print(a+b) #it prints mathematical addition of a and b.
 print("a+b") # it prints "a+b" as it is because of quotes.
+print(a+b)
