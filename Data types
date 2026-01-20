@@ -1,0 +1,8 @@
+#integer #string #float
+a = 20
+type(a) #int
+b = "30"
+c = "Alice"
+#str
+d = 40.0
+prinrt(d) #float
